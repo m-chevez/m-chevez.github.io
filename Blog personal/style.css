@@ -1,0 +1,20 @@
+#title1{
+    display: flex; 
+    justify-content: center; 
+    background-color: red;
+}
+
+#image_personal{
+    text-align: center;
+    
+}
+
+#image_personal img{
+    border-radius: 50%;
+    border-color: black 4px;
+}
+
+#social_networks{
+    
+
+}
